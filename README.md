@@ -8,7 +8,7 @@ int main() {
     cin >> b;
 
     cout << "area = " << a * b << endl;
-    cout << "pyramid = " << 2 * (a + b) << endl;
+    cout << "perimeter = " << 2 * (a + b) << endl;
      
      return 0;
 }
